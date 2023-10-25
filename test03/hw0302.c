@@ -5,9 +5,9 @@ int main()
 {
     double x = 0, y = 0, a = 0;
     int32_t inp = 0;
+    scanf("%d",&inp);
     while (inp)
     {
-        scanf("%d", &inp);
         switch (inp)
         {
         case 0:
@@ -40,6 +40,7 @@ int main()
         default:
             break;
         }
+        scanf("%d", &inp);
     }
     return 0;
 }

@@ -4,9 +4,9 @@ int main()
 {
     int32_t inp = 0;
     double db =0;
+    scanf("%d",&inp);
     while (inp)
     {
-        scanf("%d", &inp);
         switch (inp)
         {
         case 0:
@@ -40,7 +40,7 @@ int main()
         default:
             break;
         }
-        
+        scanf("%d", &inp);
     }
 
     return 0;
