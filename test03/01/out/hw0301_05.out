@@ -1,0 +1,17 @@
+Input radius: 
+set_radius: 0
+Input n: 
+get_inner_regular_polygon_area: 7677.593124
+get_circle_area: 6912.262358
+Input radius: 
+set_radius: 0
+Input n: 
+get_outer_regular_polygon_area: 1045.685048
+get_circle_circumference: 89.133175
+get_circle_area: 632.220958
+Input x: 
+get_tangent_area: 408.074039
+Input x: 
+get_tangent_area: 280.516566
+get_circle_area: 632.220958
+get_circle_area: 632.220958

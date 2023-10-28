@@ -19,3 +19,5 @@ diff my_output_file your_output_file
 ### HW03
 
 10/23 upload hw0303 hw0304 test case and hw0301 hw0302 test program
+
+10/28 upload hw0301 hw0302 test case and update hw0303 hw0304 test testcase
