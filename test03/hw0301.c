@@ -1,4 +1,5 @@
 #include "mycircle.h"
+#include <stdio.h>
 
 int main()
 {
