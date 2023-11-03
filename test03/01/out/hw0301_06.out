@@ -2,11 +2,11 @@ Input radius:
 set_radius: 0
 Input radius: 
 set_radius: -1
-get_circle_circumference: 299.448837
-get_circle_area: 7135.680542
+get_circle_circumference: 118.083363
+get_circle_area: 1109.602851
 Input x: 
-get_tangent_area: 3746.202905
+get_tangent_area: 4967.343801
 Input n: 
-get_inner_regular_polygon_area: 17256.923774
+get_inner_regular_polygon_area: 1341.731297
 Input n: 
-get_outer_regular_polygon_area: 7241.879622
+get_outer_regular_polygon_area: 1156.980578

@@ -30,4 +30,4 @@ diff my_output_file your_output_file
 
 10/28 upload hw0301 hw0302 test case and update hw0303 hw0304 test testcase
 
-11/3 update hw0301.c hw0302.c add stdio
+11/3 update hw0301.c hw0302.c add stdio and **fix get_inner_regular_polygon_area in hw0301**
