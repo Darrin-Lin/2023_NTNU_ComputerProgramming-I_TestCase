@@ -33,3 +33,5 @@ diff my_output_file your_output_file
 11/3 update hw0301.c hw0302.c add stdio and **fix get_inner_regular_polygon_area in hw0301**
 
 11/4 ~~**There are some problem in hw0301.**~~ Maybe fix hw0301.
+
+11/5 update hw0302 test case of `print`: `posion : ` to `posion: `
