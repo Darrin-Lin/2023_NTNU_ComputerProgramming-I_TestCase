@@ -34,4 +34,4 @@ diff my_output_file your_output_file
 
 11/4 ~~**There are some problem in hw0301.**~~ Maybe fix hw0301.
 
-11/5 update hw0302 test case of `print`: `posion : ` to `posion: `
+11/5 update hw0302 test case of `print`: `posion : ` to `posion: ` and update hw0304 delete `Please enter the number:` and only remain `Please enter the disk number (2-20): `
