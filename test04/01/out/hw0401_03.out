@@ -1,0 +1,4 @@
+Please input the number of integers: Please input 10 integers: Before sorting:
+946 723 192 62 389 891 108 609 562 638
+After sorting:
+946 638 562 192 108 62 389 609 723 891
