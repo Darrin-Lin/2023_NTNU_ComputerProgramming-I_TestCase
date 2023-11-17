@@ -41,4 +41,4 @@ diff my_output_file your_output_file
 ### HW04
 
 11/16 upload hw0401 test cases and test program.
-11/18 upload hw0403 test cases(gsat.h). (need write shell script to test or other method)
+11/17 upload hw0403 test cases(gsat.h). (need write shell script to test or other method)
