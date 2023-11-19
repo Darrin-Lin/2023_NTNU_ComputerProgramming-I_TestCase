@@ -1,6 +1,1 @@
-Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 93x^2 + 54x + 49
-g(x): 23x^6 + 2x^5 + 71x^4 + 17x^3 + 33x^2 + 8x + 58
-(f(x)g(x))': 17112x^7 + 9996x^6 + 47028x^5 + 27565x^4 + 29864x^3 + 10077x^2 + 14886x + 3524
- f(x)    -8556x^7 - 6768x^6 - 20400x^5 - 13573x^4 - 15752x^3 - 3537x^2 + 7554x + 2740
-(----)': -------------------------------------------------------------------------------------------------------------------------
- g(x)    529x^12 + 92x^11 + 3270x^10 + 1066x^9 + 6627x^8 + 2914x^7 + 7675x^6 + 2490x^5 + 9597x^4 + 2500x^3 + 3892x^2 + 928x + 3364
+Please enter f(x) degree: Please enter f(x) coefficients: f(x) coefficient is too many.

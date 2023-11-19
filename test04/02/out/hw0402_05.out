@@ -1,4 +1,4 @@
-Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 32x^4 + 63x^3 + 85x^2 + 90x + 20
+Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 15x^7 + 77x^6 + 89x^5 + 44x^4 + 57x^3 + 10x^2 + 8x + 95
 g(x): 0
 (f(x)g(x))': 0
  f(x)    0
