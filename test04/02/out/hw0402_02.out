@@ -1,0 +1,6 @@
+Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 6x^3 + 4x^2 + 6x + 3
+g(x): 7x^2 + 4x + 1
+(f(x)g(x))': 210x^4 + 208x^3 + 192x^2 + 98x + 18
+ f(x)    42x^4 + 48x^3 - 8x^2 - -34x - 6
+(----)': -------------------------------
+ g(x)    49x^4 + 56x^3 + 30x^2 + 8x + 1

@@ -1,0 +1,6 @@
+Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 5x + 6
+g(x): 2x^4 + x^3 + 7x
+(f(x)g(x))': 50x^4 + 68x^3 + 18x^2 + 70x + 42
+ f(x)    -30x^4 - 58x^3 - 18x^2 - 42
+(----)': -----------------------------------------
+ g(x)    4x^8 + 4x^7 + x^6 + 28x^5 + 14x^4 + 49x^2
