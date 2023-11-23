@@ -1,6 +1,6 @@
-Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 10x^5 + 5x^4 + 5x^3 + 4x^2 + 6
-g(x): 8x^2 + 7x + 2
-(f(x)g(x))': 560x^6 + 660x^5 + 475x^4 + 308x^3 + 114x^2 + 112x + 42
- f(x)    240x^6 + 360x^5 + 245x^4 + 110x^3 + 58x^2 - 80x - 42
-(----)': ----------------------------------------------------
- g(x)    64x^4 + 112x^3 + 81x^2 + 28x + 4
+Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 6x + 3
+g(x): 6x^3 + 8x^2 + 9
+(f(x)g(x))': 144x^3 + 198x^2 + 48x + 54
+ f(x)    -72x^3 - 102x^2 - 48x + 54
+(----)': --------------------------------------------
+ g(x)    36x^6 + 96x^5 + 64x^4 + 108x^3 + 144x^2 + 81

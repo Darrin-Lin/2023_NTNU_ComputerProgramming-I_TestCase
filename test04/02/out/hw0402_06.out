@@ -1,6 +1,6 @@
 Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 50x^2 + 97x + 28
 g(x): 55x^2 + 24x + 32
 (f(x)g(x))': 11000x^3 + 19605x^2 + 10936x + 3776
- f(x)     + 4135x^2 - 120x - 2432
+ f(x)    4135x^2 - 120x - 2432
 (----)': -------------------------------------------
  g(x)    -3025x^4 - 2640x^3 - 4096x^2 - 1536x - 1024
