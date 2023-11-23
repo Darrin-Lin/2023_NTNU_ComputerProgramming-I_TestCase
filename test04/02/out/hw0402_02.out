@@ -1,6 +1,1 @@
-Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 3x^4 + 2x^3 + 3x^2 + 4x + 6
-g(x): 3x^3 + 8x^2 + 3x + 7
-(f(x)g(x))': 63x^6 + 180x^5 + 170x^4 + 252x^3 + 219x^2 + 162x + 46
- f(x)    9x^6 + 48x^5 + 34x^4 + 72x^3 - 35x^2 - 54x + 10
-(----)': ------------------------------------------------
- g(x)    9x^6 + 48x^5 + 82x^4 + 90x^3 + 121x^2 + 42x + 49
+Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: g(x) degree is too many.
