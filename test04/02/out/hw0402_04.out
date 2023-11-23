@@ -1,6 +1,6 @@
-Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): 90
-g(x): 22x^4 + 5x^3 + 93x^2 + 62x + 73
-(f(x)g(x))': 7920x^3 + 1350x^2 + 16740x + 5580
- f(x)    -7920x^3 - 1350x^2 - 16740x - 5580
-(----)': -----------------------------------------------------------------------------------
- g(x)    484x^8 + 220x^7 + 4117x^6 + 3658x^5 + 12481x^4 + 12262x^3 + 17422x^2 + 9052x + 5329
+Please enter f(x) degree: Please enter f(x) coefficients: Please enter g(x) degree: Please enter g(x) coefficients: f(x): x + 2
+g(x): x + 2
+(f(x)g(x))': 2x + 4
+ f(x)    0
+(----)': ------------
+ g(x)    x^2 + 4x + 4

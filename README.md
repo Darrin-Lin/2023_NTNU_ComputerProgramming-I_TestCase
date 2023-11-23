@@ -45,4 +45,4 @@ diff my_output_file your_output_file
 11/18 update hw0403 test case for a 100 person data.
 11/19 upload hw0402 test cases.
 11/20 update hw0403 and hw0402 test cases.
-11/23 upload hw0401 test program.
+11/23 upload hw0401 test program and upadte hw0402 test case.
