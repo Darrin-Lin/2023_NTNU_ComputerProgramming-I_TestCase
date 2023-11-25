@@ -14,12 +14,15 @@
 diff my_output_file your_output_file
 ```
 
-### easy tutorial
+### Easy tutorial
 
 [Link](https://hackmd.io/@vUfMCtPkSZewQjrjIwuJgg/HyiJvee-p)
 
 ---
 
+## Test cases from other people
+
+### HW04
 [hw0404 test cases link: https://github.com/MaxWutw/hw0404/tree/main](https://github.com/MaxWutw/hw0404/tree/main)
 
 ---
