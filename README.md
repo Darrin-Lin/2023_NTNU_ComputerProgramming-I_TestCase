@@ -20,6 +20,10 @@ diff my_output_file your_output_file
 
 ---
 
+[hw0404 test cases link: https://github.com/MaxWutw/hw0404/tree/main](https://github.com/MaxWutw/hw0404/tree/main)
+
+---
+
 ## Upload log
 
 ### HW02
@@ -46,3 +50,5 @@ diff my_output_file your_output_file
 11/19 upload hw0402 test cases.
 11/20 update hw0403 and hw0402 test cases.
 11/23 upload hw0401 test program and upadte hw0402 test case.
+
+11/25 update hyperlink of hw0404 test cases. 
