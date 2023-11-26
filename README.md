@@ -23,7 +23,8 @@ diff my_output_file your_output_file
 ## Test cases from other people
 
 ### HW04
-hw0404 test cases link: https://github.com/MaxWutw/hw0404/tree/main
+[hw0404 test cases link](https://github.com/MaxWutw/hw0404/tree/main)
+[hw0405 test cases link](https://github.com/mrfish233/hw0405)
 
 ---
 
@@ -55,3 +56,4 @@ hw0404 test cases link: https://github.com/MaxWutw/hw0404/tree/main
 11/23 upload hw0401 test program and upadte hw0402 test case.
 
 11/25 update hyperlink of hw0404 test cases. 
+11/26 upload hw0405 test cases input(TA's examples and yaku.pdf without 國士無雙 and honor, wind) and add hw0405 hyperlink from others.
