@@ -23,7 +23,7 @@ diff my_output_file your_output_file
 ## Test cases from other people
 
 ### HW04
-[hw0404 test cases link](https://github.com/MaxWutw/hw0404/tree/main)
+[hw0404 test cases link](https://github.com/MaxWutw/hw0404/tree/main)  
 [hw0405 test cases link](https://github.com/mrfish233/hw0405)
 
 ---
