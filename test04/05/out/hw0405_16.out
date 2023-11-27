@@ -1,7 +1,7 @@
 Please input meld: Is open group(1: YES 0: NO): Please input meld: Is open group(1: YES 0: NO): Please input meld: Is open group(1: YES 0: NO): Please input meld: Is open group(1: YES 0: NO): Please input pair: Please input winning tile: Player's wind(0:E 1:S 2:W 3:N): Prevailing wind(0:E 1:S 2:W 3:N): 
 The Score is...
-    All triplets (2 Han)
     All terminals and honors (2 Han)
+    All triplets (2 Han)
+    Three colour triplets (2 Han)
     Three concealed triplets (2 Han)
-    Terminal or honor in each set (1 Han)
-Toltal: 7 Han
+Total: 8 Han
