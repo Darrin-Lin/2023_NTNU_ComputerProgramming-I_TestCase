@@ -57,4 +57,4 @@ diff my_output_file your_output_file
 
 11/25 update hyperlink of hw0404 test cases. 
 11/26 upload hw0405 test cases(TA's examples and yaku.pdf without 國士無雙 and honor, wind) and add hw0405 hyperlink from others.
-11/27 update hw0405 test cases.
+11/27 update hw0405 test cases and upload hw0404 test cases for error input.
