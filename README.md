@@ -32,6 +32,8 @@ diff my_output_file your_output_file
 
 ### HW04
 
+**11/28** update hw0405 test cases of Two sets of identical sequences.
+
 **11/27** update hw0405 test cases and upload hw0404 test cases for error input.
 
 **11/26** upload hw0405 test cases(TA's examples and yaku.pdf without 國士無雙 and honor, wind) and add hw0405 hyperlink from others.
