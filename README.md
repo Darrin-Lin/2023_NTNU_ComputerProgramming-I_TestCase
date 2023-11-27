@@ -49,12 +49,19 @@ diff my_output_file your_output_file
 ### HW04
 
 11/16 upload hw0401 test cases and test program.
+
 11/17 upload hw0403 test cases(gsat.h). (need write shell script to test or other method)
-11/18 update hw0403 test case for a 100 person data.
+
+11/18 update hw0403 test case for a 100 person data.  
+
 11/19 upload hw0402 test cases.
+
 11/20 update hw0403 and hw0402 test cases.
+
 11/23 upload hw0401 test program and upadte hw0402 test case.
 
-11/25 update hyperlink of hw0404 test cases. 
+11/25 update hyperlink of hw0404 test cases.
+
 11/26 upload hw0405 test cases(TA's examples and yaku.pdf without 國士無雙 and honor, wind) and add hw0405 hyperlink from others.
-11/27 update hw0405 test cases and upload hw0404 test cases for error input.
+
+11/27 update hw0405 test cases and upload hw0404 test cases for error input.  
