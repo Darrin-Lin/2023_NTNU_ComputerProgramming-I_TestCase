@@ -30,11 +30,12 @@ int main()
 		if (return_value == 1)
 		{
 			for (int32_t i = 0; i < size; i++)
-			{
+			{	
 				printf("%d ", x[i]);
 			}
 			printf("]^T\n");
 		}
+		free(*x);
 	}
 	else if (nul == -1)
 	{
@@ -50,5 +51,6 @@ int main()
 		int32_t return_value = gaussian_elimination(1, NULL, NULL, &x);
 		printf("return: %d\n", return_value);
 	}
+	
 	return 0;
 }

@@ -32,7 +32,7 @@ diff my_output_file your_output_file
 
 ### HW05
 
-**12/1** Upload hw0501 hw0503 test cases and hw0501, hw0502 and hw0503 test program.
+**12/1** Upload hw0501 hw0502 hw0503 test cases and test program.
 
 ### HW04
 
