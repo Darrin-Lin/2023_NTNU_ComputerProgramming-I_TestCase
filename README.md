@@ -30,6 +30,10 @@ diff my_output_file your_output_file
 
 ## Upload log
 
+### HW05
+
+**12/1** Upload hw0501 test cases and hw0501 and hw0502 test program.
+
 ### HW04
 
 **11/28** update hw0405 test cases of Two sets of identical sequences.
