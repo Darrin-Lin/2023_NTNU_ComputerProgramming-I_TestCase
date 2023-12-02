@@ -24,25 +24,25 @@ int main()
 		{
 			scanf("%d", &y[i]);
 		}
-		int32_t return_value = gaussian_elimination(size, &A, &y[0], &x);
+		int32_t return_value = gaussian_elimination(size, &A[0][0], &y[0], &x);
 		printf("return: %d\n", return_value);
 		printf("x = [");
 		if (return_value == 1)
 		{
 			for (int32_t i = 0; i < size; i++)
 			{	
-				printf("%d ", x[i]);
+				printf("%d ", *(x+i));
 			}
 			printf("]^T\n");
 		}
-		free(*x);
+		free(x);
 	}
 	else if (nul == -1)
 	{
 		int32_t A[2][2] = {0};
 		int32_t y[2] = {0};
 		int32_t *x = NULL;
-		int32_t return_value = gaussian_elimination(0, &A, &y[0], &x);
+		int32_t return_value = gaussian_elimination(0, &A[0][0], y, &x);
 		printf("return: %d\n", return_value);
 	}
 	else
