@@ -32,6 +32,8 @@ diff my_output_file your_output_file
 
 ### HW05
 
+**12/6** Upload hw0503 test cases (is the **base** of the cap)
+
 **12/3** Upload hw0504 and hw0505 test program and hw0505 test cases.
 
 **12/1** Upload hw0501 hw0502 hw0503 test cases and test program.
