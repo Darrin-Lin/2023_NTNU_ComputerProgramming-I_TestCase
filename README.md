@@ -32,6 +32,8 @@ diff my_output_file your_output_file
 
 ### HW05
 
+**12/7** Update hw0503 test cases.
+
 **12/6** Upload hw0503 test cases (is the **base** of the cap) and hw0504 test cases and update test program.And hw0502 test cases is not ready yet (solution is promised is interger)
 
 **12/3** Upload hw0504 and hw0505 test program and hw0505 test cases.
