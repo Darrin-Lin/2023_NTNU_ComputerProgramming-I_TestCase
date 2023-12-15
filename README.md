@@ -32,7 +32,7 @@ diff my_output_file your_output_file
 
 ### HW05
 
-**12/15** Update hw0504 test cases.(but 03~06 still not sure)
+**12/15** Update hw0504 test cases(but 03~06 still not sure) and hw0505 test cases and test program.
 
 **12/9** Update hw0504 test cases.
 
