@@ -32,6 +32,8 @@ diff my_output_file your_output_file
 
 ### HW05
 
+**12/17** fix hw0504 test cases (but 03~06 may overflow).
+
 **12/16** fix hw0504 test cases (but 03~06 may overflow).
 
 **12/15** Update hw0504 test cases(but 03~06 still not sure) and hw0505 test cases and test program.
