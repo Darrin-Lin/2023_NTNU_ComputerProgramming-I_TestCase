@@ -14,13 +14,17 @@ int main()
     if (nul == 0)
     {
         scanf("%d", &size);
-        int32_t data[size] = {0};
+        int32_t data[size];
+        for(int32_t i = 0; i < size; i++)
+        {
+            data[i] = 0;
+        }
         for (int32_t i = 0; i < size; i++)
         {
             scanf("%d", &data[i]);
         }
 
-        printf("return: %d\n", statistics(&data, size, &mean, &variance, &std));
+        printf("return: %d\n", statistics(data, size, &mean, &variance, &std));
         printf("mean = %.3f\n", mean);
         printf("variance = %.3f\n", variance);
         printf("std = %.3f\n", std);
